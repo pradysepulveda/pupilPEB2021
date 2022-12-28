@@ -1,0 +1,8 @@
+,0
+waic,-308465.1408610686
+waic_se,15765.578675091176
+p_waic,282686.6215417285
+n_samples,14400
+n_data_points,1440
+warning,True
+waic_scale,log
